@@ -1,4 +1,7 @@
-#include "header.h"
+#include <iostream>
+
+
+using namespace std;
 
 /*
  *  This is a blank template used when I don't have
@@ -11,7 +14,7 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II";
-	cout << "I can't wait to learn more!!"
+	cout << "Hello Programming II" << endl;
+	cout << "I can't wait to learn more!!" << endl;
 	return 0; 
 }
